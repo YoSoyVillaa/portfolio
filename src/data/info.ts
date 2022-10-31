@@ -2,7 +2,7 @@ export const info = {
   baseUrl: "https://yosoyvillaa.com",
   name: "David Villarreal",
   jobDescription: "Java & Kotlin Developer",
-  about: `I'm a minecraft plugin developer based in Madrid, Spain.
+  about: `I'm a minecraft plugin developer from Madrid, Spain.
    I have more than 2 years of experience using Java and developing plugins for Minecraft servers.
    Recenty, I've started to learn Kotlin and thanks to my Java experience, I've been able to learn it very quickly.
    I'm currently developing micraft plugins for Spigot/PaperMC servers, and Velocity based proxy servers.
