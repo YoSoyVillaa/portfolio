@@ -1,97 +1,90 @@
 export const info = {
-  baseUrl: "https://astro-portfolio-uzair.vercel.app",
-  name: "Uzair Ahmed",
-  jobDescription: "Web Developer",
-  about: `I'm a software engineer based in Karachi, Pakistan.
-   I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
-   I have been working for 3 year, with a demonstrated history of working in the Computer Software industry. Skilled in Front-end Development.
-   I have 3 years of experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, StyledComponent, React JS and Next JS. Hence,
-   I have successfully completed several web projects from scratch. 
-   Yet, I learn continuously and never stop exploring new technologies.
-   So, I have also gained knowledge of Node JS, Express JS, Mongo DB, Python,
-   firebase and React Native with time.
+  baseUrl: "https://yosoyvillaa.com",
+  name: "David Villarreal",
+  jobDescription: "Java & Kotlin Developer",
+  about: `I'm a minecraft plugin developer based in Madrid, Spain.
+   I have more than 2 years of experience using Java and developing plugins for Minecraft servers.
+   Recenty, I've started to learn Kotlin and thanks to my Java experience, I've been able to learn it very quickly.
+   I'm currently developing micraft plugins for Spigot/PaperMC servers, and Velocity based proxy servers.
+   I have worked in many differents servers, such as Voltyum Network, VirtualHit network, and more.
+   I have used technologies such as MySQL, MongoDB, Redis, and many others.
+   If you want to ask me for a commission, you can contact me in my discord (YoSoyVillaa#0001), or by Fiverr (fiverr.com/yosoyvillaa).
   `,
 
   experience: [
     {
-      name: "InterNative Labs, LLC",
-      location: "Karāchi, Sindh, Pakistan",
+      name: "Hyrex Studios (Remote)",
+      location: "Spain",
+      startDate: "Aug 2022",
+      endDate: "Present",
+      description: [
+        "• Hyrex Studios offers Micraft related services, such us server plugins, 3D models, and more.",
+        "• Develop plugins satisfying the client's needs.",
+      ],
+    },
+
+    {
+      name: "Freelancer (Remote)",
+      location: "Everywhere ^^",
       startDate: "Apr 2022",
       endDate: "Present",
       description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
+        "✓ Developing minecraft plugins for Spigot/PaperMC servers, and Velocity based proxy servers according to the client's needs.",
+        "✓ Using technologies such as MySQL, MongoDB, Redis, or any thing else that the client needs.",
       ],
     },
 
     {
-      name: "Coupon Approve (Remote)",
-      location: "Amsterdam, North Holland, Netherlands",
-      startDate: "Nov 2020",
-      endDate: "Apr 2022",
+      name: "VirtualHit Network (Remote)",
+      location: "Spain",
+      startDate: "Mar 2022",
+      endDate: "Present",
       description: [
-        "✓ Developing code in accordance with appropriate design and architectural rules",
-        "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
+        "- Developing plugins for the network using different technologies, such as MongoDB for data storage, Redis for synchronization, and more.",
+      ],
+    },
+
+    {
+      name: "Voltyum Network (Remote)",
+      location: "Spain",
+      startDate: "Oct 2021",
+      endDate: "Sept 2022",
+      description: [
+        "✓ Developing plugins in accordance with appropriate design and architectural rules",
+        "✓ Administrating their servers and different services (System Administration)",
         "✓ Help and training of other colleagues",
-        "✓ Others tasks connected to the nature of the job",
-        "✓ Code Improvements and Refactoring ",
-        "✓ Best Practices and Rules Maintainer",
-      ],
-    },
-
-    {
-      name: "Interns Pakistan",
-      location: "Pakistan",
-      startDate: "Oct 2020",
-      endDate: "Nov 2020",
-      description: [
-        "An Immersive Internship Program that prepares me for the world's most in-demand career. A six weeks program completely based on learning and challenges.",
-        "The internship track is built by an industry expert that let develop the skills in the areas most important ",
       ],
     },
   ],
 
   education: [
     {
-      name: "Pakistan Institute of Professional Science & Technology (PIPS-TECH)",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2019",
-      endDate: "2022",
+      name: "IES Arquitecto Ventura Rodríguez",
+      location: "Boadilla del Monte, Madrid, Spain",
+      startDate: "Sept 2022",
+      endDate: "Jun 2024",
       description: [
-        "Diploma of Associate Engineering,  Computer Information Technology (CIT)",
+        "Técnico en Sistemas Microinformáticos y Redes",
       ],
-    },
-    {
-      name: "Govt. Degree Boys College Buffer Zone",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2018",
-      endDate: "2020",
-      description: ["Intermediate, Pre-Engineering"],
-    },
-    {
-      name: "Ghazi Foundation Schools & Colleges",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2016",
-      endDate: "2018",
-      description: ["Matriculation,  Computer Science"],
     },
   ],
 
   socialMedia: {
-    facebook: "https://www.facebook.com/profile.php?id=100022899849583",
-    twitter: "https://twitter.com/Uzzii_21",
-    github: "https://github.com/uzzii-21",
-    email: "uzairahmed@74372gmail.com",
-    linkedin: "https://www.linkedin.com/in/uzzii21/",
+    facebook: "",
+    twitter: "https://twitter.com/YoSoyVillaa",
+    github: "https://github.com/YoSoyVillaa",
+    email: "mailto:contacto@yosoyvillaa.com",
+    fiverr: "https://fiverr.com/yosoyvillaa",
+    linkedin: "",
   },
 
   projects: [
     {
-      title: "Astro Portfolio",
+      title: "VJCommands - A Discord API command framework",
       isFeatured: true,
-      thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+      thumbnail: "/assets/images/vjcommands.png",
+      githubUrl: "https://github.com/YoSoyVillaa/VJCommands",
+      liveUrl: "https://yosoyvillaa.github.io/VJCommands/apidocs/",
     },
   ],
 };
