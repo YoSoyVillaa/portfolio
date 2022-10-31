@@ -5,7 +5,7 @@ export const info = {
   about: `I'm a minecraft plugin developer from Madrid, Spain.
    I have more than 2 years of experience using Java and developing plugins for Minecraft servers.
    Recenty, I've started to learn Kotlin and thanks to my Java experience, I've been able to learn it very quickly.
-   I'm currently developing micraft plugins for Spigot/PaperMC servers, and Velocity based proxy servers.
+   I'm currently developing minecraft plugins for Spigot/PaperMC servers, and Velocity based proxy servers.
    I have worked in many differents servers, such as Voltyum Network, VirtualHit network, and more.
    I have used technologies such as MySQL, MongoDB, Redis, and many others.
    If you want to ask me for a commission, you can contact me in my discord (YoSoyVillaa#0001), or via Fiverr (fiverr.com/yosoyvillaa).
