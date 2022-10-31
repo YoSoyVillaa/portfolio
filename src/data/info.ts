@@ -8,7 +8,7 @@ export const info = {
    I'm currently developing micraft plugins for Spigot/PaperMC servers, and Velocity based proxy servers.
    I have worked in many differents servers, such as Voltyum Network, VirtualHit network, and more.
    I have used technologies such as MySQL, MongoDB, Redis, and many others.
-   If you want to ask me for a commission, you can contact me in my discord (YoSoyVillaa#0001), or by Fiverr (fiverr.com/yosoyvillaa).
+   If you want to ask me for a commission, you can contact me in my discord (YoSoyVillaa#0001), or via Fiverr (fiverr.com/yosoyvillaa).
   `,
 
   experience: [
@@ -50,7 +50,7 @@ export const info = {
       startDate: "Oct 2021",
       endDate: "Sept 2022",
       description: [
-        "✓ Developing plugins in accordance with appropriate design and architectural rules",
+        "✓ Developing plugins in accordance with appropriate design and codestyle rules",
         "✓ Administrating their servers and different services (System Administration)",
         "✓ Help and training of other colleagues",
       ],
