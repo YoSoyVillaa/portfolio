@@ -13,7 +13,7 @@ export const info = {
 
   experience: [
     {
-      name: "Hyrex Studios (Remote)",
+      name: "Hyrex Studios",
       location: "Spain",
       startDate: "Aug 2022",
       endDate: "Present",
@@ -24,7 +24,7 @@ export const info = {
     },
 
     {
-      name: "Freelancer (Remote)",
+      name: "Freelancer",
       location: "Everywhere ^^",
       startDate: "Apr 2022",
       endDate: "Present",
@@ -35,7 +35,7 @@ export const info = {
     },
 
     {
-      name: "VirtualHit Network (Remote)",
+      name: "VirtualHit Network",
       location: "Spain",
       startDate: "Mar 2022",
       endDate: "Present",
@@ -45,7 +45,7 @@ export const info = {
     },
 
     {
-      name: "Voltyum Network (Remote)",
+      name: "Voltyum Network",
       location: "Spain",
       startDate: "Oct 2021",
       endDate: "Sept 2022",
