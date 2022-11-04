@@ -4,11 +4,12 @@ export const info = {
   jobDescription: "Java & Kotlin Developer",
   about: `I'm a minecraft plugin developer from Madrid, Spain.
    I have more than 2 years of experience using Java and developing plugins for Minecraft servers.
-   Recenty, I've started to learn Kotlin and thanks to my Java experience, I've been able to learn it very quickly.
+   Recenty, I've started to learn Kotlin and thanks to my Java experience, I've been able to learn it very quickly, and I'm learning Android development with Kotlin too.
    I'm currently developing minecraft plugins for Spigot/PaperMC servers, and Velocity based proxy servers.
    I have worked in many differents servers, such as Voltyum Network, VirtualHit network, and more.
    I have used technologies such as MySQL, MongoDB, Redis, and many others.
    If you want to ask me for a commission, you can contact me in my discord (YoSoyVillaa#0001), or via Fiverr (fiverr.com/yosoyvillaa).
+   I have also developed discord bots in Java and Kotlin, and I have worked with lots of APIs, such as JDA, Twitch4J, and more.
   `,
 
   experience: [
@@ -70,12 +71,10 @@ export const info = {
   ],
 
   socialMedia: {
-    facebook: "",
     twitter: "https://twitter.com/YoSoyVillaa",
     github: "https://github.com/YoSoyVillaa",
     email: "mailto:contacto@yosoyvillaa.com",
     fiverr: "https://fiverr.com/yosoyvillaa",
-    linkedin: "",
   },
 
   projects: [
