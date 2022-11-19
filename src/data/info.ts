@@ -39,7 +39,7 @@ export const info = {
       name: "VirtualHit Network",
       location: "Spain",
       startDate: "Mar 2022",
-      endDate: "Present",
+      endDate: "Nov 2022",
       description: [
         "- Developing plugins for the network using different technologies, such as MongoDB for data storage, Redis for synchronization, and more.",
       ],
