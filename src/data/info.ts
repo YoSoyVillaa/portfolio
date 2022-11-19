@@ -19,8 +19,8 @@ export const info = {
       startDate: "Aug 2022",
       endDate: "Present",
       description: [
-        "• Hyrex Studios offers Micraft related services, such us server plugins, 3D models, and more.",
-        "• Develop plugins satisfying the client's needs.",
+        "• Hyrex Studios offers Minecraft related services, such us server plugins, 3D models, and more.",
+        "• Developing plugins satisfying the client's needs.",
       ],
     },
 
