@@ -6,13 +6,23 @@ export const info = {
    I have more than 2 years of experience using Java and developing plugins for Minecraft servers.
    Recenty, I've started to learn Kotlin and thanks to my Java experience, I've been able to learn it very quickly, and I'm learning Android development with Kotlin too.
    I'm currently developing minecraft plugins for Spigot/PaperMC servers, and Velocity based proxy servers.
-   I have worked in many differents servers, such as Voltyum Network, VirtualHit network, and more.
-   I have used technologies such as MySQL, MongoDB, Redis, and many others.
-   If you want to ask me for a commission, you can contact me in my discord (YoSoyVillaa#0001), or via Fiverr (fiverr.com/yosoyvillaa).
-   I have also developed discord bots in Java and Kotlin, and I have worked with lots of APIs, such as JDA, Twitch4J, and more.
+   I have worked in many differents servers, such as Voltyum Network, VirtualHit network, and more, using technologies such as MySQL, MongoDB, Redis, and more.
+   I have also developed discord bots in Java and Kotlin, and worked with differents APIs, such as JDA, Twitch4J, and more.
+   If you want to ask me for a commission, you can contact me in via discord (YoSoyVillaa#0001).
   `,
 
   experience: [
+    {
+      name: "Voltyum Network",
+      location: "Spain",
+      startDate: "Mar 2023",
+      endDate: "Present",
+      description: [
+        "✓ Owner and Lead Developer of the network",
+        "✓ Improving the network's performance and security"
+      ],
+    },
+
     {
       name: "Hyrex Studios",
       location: "Spain",
@@ -73,8 +83,7 @@ export const info = {
   socialMedia: {
     twitter: "https://twitter.com/YoSoyVillaa",
     github: "https://github.com/YoSoyVillaa",
-    email: "mailto:contacto@yosoyvillaa.com",
-    fiverr: "https://fiverr.com/yosoyvillaa",
+    email: "mailto:contact@yosoyvillaa.com"
   },
 
   projects: [
