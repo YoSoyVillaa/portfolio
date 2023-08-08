@@ -16,7 +16,7 @@ export const info = {
       name: "Voltyum Network",
       location: "Spain",
       startDate: "Mar 2023",
-      endDate: "Present",
+      endDate: "Jun 2023",
       description: [
         "✓ Owner and Lead Developer of the network",
         "✓ Improving the network's performance and security"
