@@ -218,8 +218,8 @@
       "isActive": true,
       "description": "Crea increíbles animaciones para tu servidor de minecraft",
       "highlights": [
-        "Compatible con paquetes de recursos",
-        "Fácil de usar"
+        "Fácil de usar",
+        "Compatible con paquetes de recursos"
       ],
       "url": "https://docs.hyrex.es/hyrex-animations",
       "github": "https://github.com/HyrexStudios/hyrexanimations-api"
