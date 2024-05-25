@@ -175,6 +175,20 @@
       ]
     },
     {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Next.JS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
       "name": "Node",
       "level": "Avanzado",
       "keywords": [
@@ -218,6 +232,18 @@
     "reference": "Reference…"
   }],
   "projects": [
+    {
+      "name": "next-litebans",
+      "isActive": true,
+      "description": "Interfaz web para LiteBans hecha con Next.JS, Prisma y shadcn/ui",
+      "highlights": [
+        "Multilenguaje y configurable",
+        "Compatible con MySQL y PostgreSQL",
+        "Clone, build & run"
+      ],
+      "url": "https://next-litebans.yosoyvillaa.dev",
+      "github": "https://github.com/yosoyvillaa/next-litebans"
+    },
     {
       "name": "HyrexAnimations",
       "isActive": true,
